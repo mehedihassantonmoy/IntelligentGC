@@ -14,4 +14,4 @@ Requirements:
 
 Guide:
 1. Run "classifer.py". It will prompt you to run a particular experiment. Just enter desired number of the experiment.
-2. To get the plots, run "comparison plot".
+2. To get the plots, run "comparison_plot.py".
